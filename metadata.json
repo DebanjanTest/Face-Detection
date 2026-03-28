@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Login System",
+  "description": "A security-based login system with continuous facial verification via camera feed.",
+  "requestFramePermissions": ["camera"]
+}
